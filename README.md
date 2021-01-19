@@ -4,18 +4,16 @@
 ### Main launguage used here is the `python`.
 
 ### Requirements:
-`
-<li> pip datetime</li>
-<li>pip os</li>
-<li>pip pyttsx3</li>
-<li>pip wikipedia</li>
-<li>pip speech_recognition </li>
-<li>pip webbrowser</li>
-<li>pip sys</li>
-<li>pip requests</li>
-<li>pip json</li>
-<li>pip pyjokes</li>
-<li>pip pyautogui</li>`
+```
+pip install SpeechRecognition
+pip install jsonlib
+pip install pyttsx3
+pip install wikipedia
+pip install pyjokes
+pip install pyautogui
+pip install cv2
+
+```
 
 
 
